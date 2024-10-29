@@ -32,6 +32,6 @@ out/
 /line-ending-check.bat
 *.vcxproj
 *.filters
-
+*.sln
 bin/
 bin-int/
